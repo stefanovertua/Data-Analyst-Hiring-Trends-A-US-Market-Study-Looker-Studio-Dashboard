@@ -1,4 +1,4 @@
-# DATA ANALYST HIRING TRENDS: A US MARKET STUDY | LOOKER STUDIO DASHBOARD
+# Data Analyst Hiring Trends: A US Market Study | Looker Studio Dashboard
 
 ## Overview
 
